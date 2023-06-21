@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1687089920 source:c:\users\tkacu\kursach 4.0\kursach(sg)\src\order.cpp
+	"Order.h"
+
+1687089897 c:\users\tkacu\kursach 4.0\kursach(sg)\include\order.h
+	<iomanip>
+	<iostream>
+	<list>
+
+1684694652 source:c:\users\tkacu\kursach 4.0\kursach(sg)\src\weapon.cpp
+	"Weapon.h"
+
+1684696111 c:\users\tkacu\kursach 4.0\kursach(sg)\include\weapon.h
+	<iomanip>
+	<iostream>
+	<list>
+
+1687090228 source:c:\users\tkacu\kursach 4.0\kursach(sg)\src\client.cpp
+	"Client.h"
+
+1687116489 c:\users\tkacu\kursach 4.0\kursach(sg)\include\client.h
+	<iomanip>
+	<iostream>
+	<list>
+
+1687116738 source:c:\users\tkacu\kursach 4.0\kursach(sg)\src\data.cpp
+	"Data.h"
+
+1684698443 c:\users\tkacu\kursach 4.0\kursach(sg)\include\data.h
+	<conio.h>
+	<ctime>
+	<list>
+	<fstream>
+	<string>
+	"Client.h"
+	"Order.h"
+	"Weapon.h"
+
+1684693417 source:c:\users\tkacu\kursach 4.0\kursach(sg)\main.cpp
+	<iostream>
+	"Console.h"
+
+1685899932 c:\users\tkacu\kursach 4.0\kursach(sg)\include\console.h
+	"Data.h"
+	<iostream>
+	<string>
+	<chrono>
+	<iomanip>
+
+1687345802 source:c:\users\tkacu\kursach 4.0\kursach(sg)\src\console.cpp
+	"Console.h"
+
